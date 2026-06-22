@@ -186,4 +186,3 @@ janela = TelaCadastro()
 janela.show()
 
 app.exec()
-print("")
